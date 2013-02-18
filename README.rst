@@ -23,7 +23,9 @@ The sketch send the targets in the following form::
 Components
 ----------
 
-* Arduino > duemilanove.
-* Potentiometer.
-* LCD screen.
-* Micro switch.
+  * An arduino duemilanove or superior.
+  * An USB Cable A-B.
+  * A LCD display (16 x 2).
+  * Two 10k Ohm potentiometers.
+  * An analog microswitch.
+  * A durable box for hold all the bits together.
