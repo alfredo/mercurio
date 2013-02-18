@@ -23,6 +23,8 @@ The sketch send the targets in the following form::
 Components
 ----------
 
+This is the list of components required::
+
   * An arduino duemilanove or superior.
   * An USB Cable A-B.
   * A LCD display (16 x 2).
